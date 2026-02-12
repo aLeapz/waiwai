@@ -142,7 +142,7 @@ Press [ESC] to exit program
 -----------------------------------------------------------------------------
 # 🧠 How It Works
 System Architecture
-- <img src="https://drive.google.com/uc?export=view&id=1foqPAZgt3-sC375iHUjrkfFWBRSiNtBY" width="400">
+- <img src="https://drive.google.com/uc?export=view&id=1RPlhcluAkt7mvUgqUSqKr0BQI7vw0iJZ" width="400">
 -----------------------------------------------------------------------------
 # Automatic File Cleanup
 python
