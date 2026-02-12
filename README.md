@@ -3,7 +3,7 @@
 <p align="center"> 
 <p align="center">
   <a href="https://docs.google.com/document/d/1MTFCYoW7yhwXDfWpgVE0lIhTGQqQ33ID/edit">
-    <img src="https://img.shields.io/badge/Jurnal-GDocs-blue.svg">
+    <img src="https://img.shields.io/badge/Paper-GDocs-blue.svg">
   </a>
   <a href="https://github.com/openai/whisper">
     <img src="https://img.shields.io/badge/STT-Whisper-orange.svg">
@@ -93,12 +93,12 @@ pip install -r requirements.txt
 
 # 🚀 Quick Start
 ## 1. Start All Services
-### Terminal 1 - Run Ollama:
+### 1 - Run Ollama:
 ```bash
 ollama serve
 ```
 Should show: Listening on 127.0.0.1:11434
-### Terminal 2 - Run VoiceVox:
+### 2 - Run Docker Desktop then Run VoiceVox:
 - CPU
 ```bash
 docker run --rm -it -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:cpu-latest
@@ -108,9 +108,7 @@ docker run --rm -it -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:cpu-late
 docker run --rm --gpus all -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:nvidia-latest
 ```
 Should show: Starting server on 0.0.0.0:50021
-### Terminal 3 - Run WAIWAI.py:
-Run WAIWAI
-python main.py
+### 3- Run WAIWAI.py
 ## 2. Start Conversing!
 
 ```bash
@@ -179,7 +177,7 @@ ollama serve
 ❌ "VoiceVox Engine is OFFLINE"
 ### Solution:
 - Make sure Docker is running
-- If not running, start container again
+- If not running, start docker and start the container again
   - CPU
     ```bash
     docker run --rm -it -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:cpu-latest
