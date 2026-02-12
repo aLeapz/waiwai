@@ -163,7 +163,7 @@ def query_llm(text):
             "[Japanese] / [Romaji] (English translation)."
             "Do not add explanations outside the format."
             
-           "Example response format (MUST follow exactly, and also make sure EACH SENTENCES IS SEPARATED like this):"
+           "Example response format (MUST follow exactly, and also make sure EACH SENTENCES HAVE SEPARATED like this):"
            "こんにちは！ / Konnichiwa! (Hello!)"
            "今日は日本語を勉強しましょう。 / Kyō wa Nihongo o benkyō shimashō. (Let’s study Japanese today.)"
            "今どんなことを話したいですか？ / Ima donna koto o hanashitai desu ka? (What would you like to talk about?)"
