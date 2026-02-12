@@ -28,7 +28,9 @@
 - 🔐 Automatic temporary file cleanup (privacy-focused)
 -----------------------------------------------------------------------------
 # Demo Video:
-
+[![Demo WAIWAI](https://img.youtube.com/vi/dY4P1IYFA0M/maxresdefault.jpg)](https://www.youtube.com/watch?v=dY4P1IYFA0M)
+- Click the image above to watch the demo
+    - PS: go to 12:01 if you don't want to hear me yap, YES i yap for 12 minutes
 -----------------------------------------------------------------------------
 # 🖥️ System Requirements
 ## Minimum Hardware (Tested)
