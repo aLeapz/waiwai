@@ -108,7 +108,7 @@ docker run --rm -it -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:cpu-late
 docker run --rm --gpus all -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:nvidia-latest
 ```
 Should show: Starting server on 0.0.0.0:50021
-### 3- Run WAIWAI.py
+### 3 - Run WAIWAI.py
 ## 2. Start Conversing!
 
 ```bash
