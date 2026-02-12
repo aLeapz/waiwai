@@ -30,7 +30,9 @@
 # Demo Video:
 [![Demo WAIWAI](https://img.youtube.com/vi/dY4P1IYFA0M/maxresdefault.jpg)](https://www.youtube.com/watch?v=dY4P1IYFA0M)
 - Click the image above to watch the demo
-    - PS: go to 12:01 if you don't want to hear me yap, YES i yap for 12 minutes
+    - PS: go to 12:01 if you don't want to hear me yap, YES i do yap for 12 minutes straight
+    - PS: ohh also forgot to said that you can change the voicevox speakers by changing the speakers id (line 201 waiwai.py)
+      - here is the list of the speakers ```http://localhost:50021/speakers``` (need to run voicevox docker first)
 -----------------------------------------------------------------------------
 # 🖥️ System Requirements
 ## Minimum Hardware (Tested)
